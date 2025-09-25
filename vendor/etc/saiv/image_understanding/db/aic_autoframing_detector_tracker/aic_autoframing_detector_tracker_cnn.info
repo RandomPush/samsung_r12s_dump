@@ -1,0 +1,11 @@
+{
+	"version_id": "V1",
+	"tag" : "1.17",
+	"model_type" : "npu",
+	"precision" : "qasymm8",
+	"latency" : "0",
+	"compiler" : "enn_6.10.20.1",
+	"model_height" : "384",
+	"model_width" : "384",
+	"model_path" : "/vendor/etc/saiv/image_understanding/db/aic_autoframing_detector_tracker/aic_autoframing_detector_tracker_cnn.tflite"
+}

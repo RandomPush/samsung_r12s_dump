@@ -1,0 +1,7 @@
+service vendor.samsung.hardware.tlc.ddar-default /vendor/bin/hw/vendor.samsung.hardware.tlc.ddar-service
+    interface aidl vendor.samsung.hardware.tlc.ddar.ISehDdar/default
+    class hal
+    user system
+    group system
+    oneshot
+    disabled

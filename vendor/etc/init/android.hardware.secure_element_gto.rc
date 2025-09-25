@@ -1,0 +1,4 @@
+service vendor.gto_secure_element_aidl_service /vendor/bin/hw/android.hardware.secure_element-service.thales
+    class hal
+    user system
+    group system

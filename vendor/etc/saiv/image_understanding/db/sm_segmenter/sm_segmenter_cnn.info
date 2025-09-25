@@ -1,0 +1,9 @@
+{
+    "version_id": "v2",
+    "tag" : "2.3",
+    "model_type" : "npu",
+    "precision" : "qasymm16",
+    "compiler" : "",
+    "model_path" : "/vendor/etc/saiv/image_understanding/db/sm_segmenter/sm_segmenter_cnn.tflite"
+}
+

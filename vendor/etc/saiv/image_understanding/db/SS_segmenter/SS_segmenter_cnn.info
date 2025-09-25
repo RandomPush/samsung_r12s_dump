@@ -1,0 +1,8 @@
+{
+    "version_id": "v1",
+    "tag" : "1.12",
+    "compiler": "eden",
+    "model_type" : "npu",
+    "precision" : "qasymm8",
+    "model_path" : "/vendor/etc/saiv/image_understanding/db/SS_segmenter/SS_segmenter_cnn.tflite"
+}

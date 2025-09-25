@@ -1,0 +1,12 @@
+{
+	"version_id": "v2",
+	"tag" : "2.16",
+	"model_type" : "npu",
+	"precision" : "qasymm16",
+	"compiler" : "enn-6.11.16",
+	"latency" : "0",
+	"input_layer" : "data",
+	"output_layer" : "output",
+	"resolution" : "256",
+	"model_path" : "/vendor/etc/saiv/image_understanding/db/ai_segmenter/ai_segmenter_cnn.tflite"
+}
