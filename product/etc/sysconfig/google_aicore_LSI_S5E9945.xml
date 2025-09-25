@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<feature name="com.google.android.feature.AICORE_SLSI_S5E9945" />
+	<feature name="com.google.android.feature.AICORE_SLSI" />
+	<allow-in-power-save package="com.google.android.aicore" />
+</config>
+
+<string name="config_defaultOnDeviceIntelligenceService" translatable="false">
+	com.google.android.aicore/com.google.android.apps.aicore.service.isolated.AiCoreIntelligenceService
+</string>
+<string name="config_defaultOnDeviceSandboxedInferenceService" translatable="false">
+	com.google.android.aicore/com.google.android.apps.aicore.service.isolated.AiCoreIsolatedService
+</string>
+<string name="config_defaultOnDeviceIntelligenceDeviceConfigNamespace" translatable="false">
+	aicore
+</string>
+<string name="config_onDeviceIntelligenceModelLoadedBroadcastKey" translatable="false">
+	AICORE_BROADCAST_ACTION_MODEL_LOADING
+</string>
+<string name="config_onDeviceIntelligenceModelUnloadedBroadcastKey" translatable="false">
+	AICORE_BROADCAST_ACTION_MODEL_UNLOADED
+</string>
