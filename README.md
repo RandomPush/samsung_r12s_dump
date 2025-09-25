@@ -1,0 +1,14 @@
+# r12sxxx-user 15 AP3A.240905.015.A2 S721BXXS7BYH2 release-keys
+- manufacturer: samsung
+- platform: erd9945
+- codename: r12s
+- flavor: r12sxxx-user
+- release: 15
+- id: AP3A.240905.015.A2
+- incremental: S721BXXS7BYH2
+- tags: release-keys
+- fingerprint: samsung/r12sxxx/r12s:14/UP1A.231005.007/S721BXXS7BYH2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: r12sxxx-user-15-AP3A.240905.015.A2-S721BXXS7BYH2-release-keys-
+- repo: samsung_r12s_dump
